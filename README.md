@@ -20,7 +20,7 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:thaivanhoa2002@gmail.com">
+  <a href="mailto:hoatv.21it@vku.udn.vn">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href=#" target="_blank">
@@ -65,11 +65,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="hoathaivan20062002">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaivanhoa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="vanhoa26">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoa26&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="hoathaivan20062002">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thaivanhoa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="vanhoa26">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vanhoa26&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
